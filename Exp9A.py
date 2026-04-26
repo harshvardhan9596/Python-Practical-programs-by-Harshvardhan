@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 26 14:55:15 2026
 
-@author: Rutuja Gaikwad
+@author: Harshvardhan Gaikwad
 """
 import math
 # Take input from the user
