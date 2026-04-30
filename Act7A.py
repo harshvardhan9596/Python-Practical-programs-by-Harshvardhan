@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 30 15:32:14 2026
 
-@author: Agce
+@author: Harshvardhan Gaikwad
 """
 class BankAccount:
     def __init__(self, balance=0):
