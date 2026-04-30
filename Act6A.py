@@ -1,15 +1,32 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Apr 24 02:33:45 2026
+Created on Thu Apr 30 14:51:14 2026
 
 @author: Harshvardhan Gaikwad
 """
-with open("expenses.txt", "w") as f:
-    for i in range(5):
-        amt = float(input(f"Enter expense for day {i+1}: "))
-        f.write(str(amt) + "\n")
+# file name
+file_name = "expenses.txt"
+
+# take input from user
+date = input("Enter date (DD-MM-YYYY): ")
+amount = float(input("Enter expense amount: "))
+
+# store in file (append mode)
+with open(file_name, "a") as file:
+    file.write(f"{date},{amount}\n")
+
+print("Expense saved successfully!")
+
 total = 0
-with open("expenses.txt", "r") as f:
-    for line in f:
-        total += float(line.strip())
+
+with open(file_name, "r") as file:
+    for line in file:
+        parts = line.strip().split(",")
+        
+        if len(parts) != 2:
+            continue   # skip invalid lines
+        
+        date, amount = parts
+        total += float(amount)
+
 print("Total Monthly Expense:", total)
