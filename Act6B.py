@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 24 02:38:38 2026
 
-@author: Harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 with open("attendance.txt", "a") as f:
     for i in range(3):
