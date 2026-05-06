@@ -1,7 +1,7 @@
 """
 Created on Fri Mar 20 07:45:28 2026
 
-@author: Harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 # Taking prices from user
 
