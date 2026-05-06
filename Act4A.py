@@ -1,7 +1,7 @@
 """
 Created on Fri Mar 20 07:34:01 2026
 
-@author: Harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 marks = [78, 85, 90, 67, 88]
 total = sum(marks)
