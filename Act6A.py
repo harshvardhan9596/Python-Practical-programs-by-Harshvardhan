@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 30 14:51:14 2026
 
-@author: Harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 # file name
 file_name = "expenses.txt"
