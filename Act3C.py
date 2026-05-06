@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 30 15:29:01 2026
 
-@author: Ashish Gaikwad
+@author: Harshvardhan Gaikwad
 """
 marks = float(input("Enter your marks: "))
 
