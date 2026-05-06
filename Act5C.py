@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 17 13:26:23 2026
 
-@author: Harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 purchases = ["apple", "banana", "apple", "orange", "banana", "apple"]
 frequency = {}
