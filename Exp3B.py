@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 13 13:12:56 2026
 
-@author: Harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 def simple_interest(principal, rate, time):
   si = (principal * rate * time) / 100
