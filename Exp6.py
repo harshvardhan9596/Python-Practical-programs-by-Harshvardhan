@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 17 13:15:00 2026
 
-@author: Ashish Gaikwad
+@author: Harshvardhan Gaikwad
 """
 file_name = "course_outcomes.txt"
 with open(file_name, "w") as file:
