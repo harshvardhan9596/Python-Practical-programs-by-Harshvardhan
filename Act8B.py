@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 30 15:51:16 2026
 
-@author: Harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 try:
     age = int(input("Enter your age: "))
