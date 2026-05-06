@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 20 07:08:41 2026
 
-@author: Ashish Gaikwad
+@author: Harshvardhan Gaikwad
 """
 # Taking list input from the user
 n = int(input("Enter number of elements: "))
