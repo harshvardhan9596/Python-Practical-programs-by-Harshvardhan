@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 17 12:57:31 2026
 
-@author: harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 student = {}
 student["name"] = "Rahul"
