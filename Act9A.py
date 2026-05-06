@@ -2,7 +2,7 @@
 """
 Created on Fri May  1 22:37:08 2026
 
-@author: Ashish Gaikwad
+@author: Harshvardhan Gaikwad
 """
 import math
 
