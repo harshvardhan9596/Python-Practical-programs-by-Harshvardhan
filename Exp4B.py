@@ -2,7 +2,7 @@
 """
 Created on Fri Mar 20 07:08:41 2026
 
-@author: Harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 # Take input from the user
 string = input("Enter a string: ")
