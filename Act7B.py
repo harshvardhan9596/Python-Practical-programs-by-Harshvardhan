@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 30 15:33:44 2026
 
-@author: Harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 class Employee:
     def __init__(self, name, salary):
