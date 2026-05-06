@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 26 14:41:48 2026
 
-@author: Harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 
 # Example list
