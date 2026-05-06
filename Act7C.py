@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 30 15:32:20 2026
 
-@author: Harshvardhan Gaikwad
+@author: Ashish Gaikwad
 """
 class Student:
     def __init__(self, name, marks):
