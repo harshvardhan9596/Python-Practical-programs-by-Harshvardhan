@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 17 13:25:42 2026
 
-@author:Harshvardhan Gaikwad
+@author:Ashish Gaikwad
 """
 # Roll numbers of students in two classes
 class_A = {101, 102, 103, 104, 105}
