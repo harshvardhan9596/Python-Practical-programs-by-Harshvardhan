@@ -2,7 +2,7 @@
 """
 Created on Fri Apr 17 13:05:31 2026
 
-@author: Ashish Gaikwad
+@author: Harshvardhan Gaikwad
 """
 set1 = set(map(int, input("Enter elements of first set (space-separated): ").split()))
 set2 = set(map(int, input("Enter elements of second set (space-separated): ").split()))
